@@ -1,0 +1,5 @@
+# Top-level license placeholder for your repository.
+
+# Important:
+# - Keep the ORIGINAL Apache-2.0 license from PFN inside `vendor/timesfm_fin/LICENSE`
+#   when you vendor their code into this project.
